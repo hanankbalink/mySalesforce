@@ -26,7 +26,8 @@
         <aura:if isTrue="{! v.waiting }">
 	        <lightning:spinner size="large"/>
         </aura:if>            
-
+ 
+ 
     </div>
     
 </aura:component>
